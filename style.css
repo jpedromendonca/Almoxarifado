@@ -1,0 +1,36 @@
+.loginInicio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.navbar {
+  height: 15vh;
+  justify-content: space-around !important;
+  align-items: center;
+  color: #fff4ce;
+}
+.item-pag a {
+  color: #fff4ce;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn-entrar {
+  margin-top: 5px;
+}
+#pagina {
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#divForm {
+  padding: 20px;
+}
+#divForm button,
+.btn {
+  margin: 10px !important;
+}
